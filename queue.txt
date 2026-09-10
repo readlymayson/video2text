@@ -14,20 +14,3 @@
 # Относительные пути:
 # videos/my_video.mp4
 # audio/recordings/audio.wav
-
-https://vkvideo.ru/video-211967493_456239111?list=ln-lcJ75Mhg4suED9eIiw
-https://vkvideo.ru/video-211967493_456239120?list=ln-paaxkcOohBIvawZWh6
-https://vkvideo.ru/video-211967493_456239104?list=ln-9qHRl1k687ZlzyvaRG
-https://vkvideo.ru/video-211967493_456239100?list=ln-YZGH3D5iHobwSp2qGc
-https://vkvideo.ru/video-211967493_456239101?list=ln-CAKQAuz10gpQkLSzh9
-https://vkvideo.ru/video-211967493_456239110?list=ln-4gHvWsdkodPvEyStec
-https://vkvideo.ru/video-211967493_456239112?list=ln-r7d5gfez3zpH8CThrP
-https://vkvideo.ru/video-211967493_456239121?list=ln-O0UzLQtkW4eMdVlvWz
-https://vkvideo.ru/video-211967493_456239114?list=ln-Hcil8p78ghDfRB2CBD
-https://vkvideo.ru/video-211967493_456239115?list=ln-krfRigWNL8wlVN1Tlj
-https://vkvideo.ru/video-211967493_456239118?list=ln-6GP27E0nCAieDs94Fw
-https://vkvideo.ru/video-211967493_456239119?list=ln-DF6ZBPSD86FHh7D49y
-https://vkvideo.ru/video-211967493_456239103?list=ln-nIMwHpu9VF3BmKTmqP
-https://vkvideo.ru/video-211967493_456239106?list=ln-uCNEnzZJpdGsRWwZJt
-https://vkvideo.ru/video-211967493_456239107?list=ln-IgA6Fr4TE07XzcLluD
-https://vkvideo.ru/video-211967493_456239102?list=ln-qRvG5LAt81GoVu6tcy
